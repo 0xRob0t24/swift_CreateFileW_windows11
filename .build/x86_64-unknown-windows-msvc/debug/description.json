@@ -1,0 +1,224 @@
+{
+  "builtTestProducts" : [
+
+  ],
+  "copyCommands" : {
+
+  },
+  "explicitTargetDependencyImportCheckingMode" : {
+    "none" : {
+
+    }
+  },
+  "generatedSourceTargetSet" : [
+
+  ],
+  "pluginDescriptions" : [
+
+  ],
+  "swiftCommands" : {
+    "C.CreateFile-debug.module" : {
+      "executable" : "C:\\Users\\krompcu-pc\\AppData\\Local\\Programs\\Swift\\Toolchains\\5.10.1+Asserts\\usr\\bin\\swiftc.exe",
+      "fileList" : "C:\\Users\\krompcu-pc\\Desktop\\swift\\CreateFile\\.build\\x86_64-unknown-windows-msvc\\debug\\CreateFile.build\\sources",
+      "importPath" : "C:\\Users\\krompcu-pc\\Desktop\\swift\\CreateFile\\.build\\x86_64-unknown-windows-msvc\\debug",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "C:\\Users\\krompcu-pc\\Desktop\\swift\\CreateFile\\Sources\\CreateFile\\main.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "C:\\Users\\krompcu-pc\\Desktop\\swift\\CreateFile\\.build\\x86_64-unknown-windows-msvc\\debug\\swift-version--77E163424D9F6067.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "C:\\Users\\krompcu-pc\\Desktop\\swift\\CreateFile\\.build\\x86_64-unknown-windows-msvc\\debug\\CreateFile.build\\sources"
+        }
+      ],
+      "isLibrary" : false,
+      "moduleName" : "CreateFile",
+      "moduleOutputPath" : "C:\\Users\\krompcu-pc\\Desktop\\swift\\CreateFile\\.build\\x86_64-unknown-windows-msvc\\debug\\CreateFile.swiftmodule",
+      "objects" : [
+        "C:\\Users\\krompcu-pc\\Desktop\\swift\\CreateFile\\.build\\x86_64-unknown-windows-msvc\\debug\\CreateFile.build\\main.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "x86_64-unknown-windows-msvc",
+        "-swift-version",
+        "5",
+        "-enable-batch-mode",
+        "-index-store-path",
+        "C:\\Users\\krompcu-pc\\Desktop\\swift\\CreateFile\\.build\\x86_64-unknown-windows-msvc\\debug\\index\\store",
+        "-Onone",
+        "-enable-testing",
+        "-j4",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-module-cache-path",
+        "C:\\Users\\krompcu-pc\\Desktop\\swift\\CreateFile\\.build\\x86_64-unknown-windows-msvc\\debug\\ModuleCache",
+        "-parseable-output",
+        "-color-diagnostics",
+        "-sdk",
+        "C:\\Users\\krompcu-pc\\AppData\\Local\\Programs\\Swift\\Platforms\\5.10.1\\Windows.platform\\Developer\\SDKs\\Windows.sdk",
+        "-libc",
+        "MD",
+        "-I",
+        "C:\\Users\\krompcu-pc\\AppData\\Local\\Programs\\Swift\\Platforms\\5.10.1\\Windows.platform\\Developer\\Library\\XCTest-development\\usr\\lib\\swift\\windows",
+        "-I",
+        "C:\\Users\\krompcu-pc\\AppData\\Local\\Programs\\Swift\\Platforms\\5.10.1\\Windows.platform\\Developer\\Library\\XCTest-development\\usr\\lib\\swift\\windows\\x86_64",
+        "-L",
+        "C:\\Users\\krompcu-pc\\AppData\\Local\\Programs\\Swift\\Platforms\\5.10.1\\Windows.platform\\Developer\\Library\\XCTest-development\\usr\\lib\\swift\\windows\\x86_64",
+        "-use-ld=lld",
+        "-g",
+        "-use-ld=lld",
+        "-Xcc",
+        "-D_MT",
+        "-Xcc",
+        "-D_DLL",
+        "-Xcc",
+        "-Xclang",
+        "-Xcc",
+        "--dependent-lib=msvcrt",
+        "-Xcc",
+        "-gdwarf",
+        "-package-name",
+        "createfile"
+      ],
+      "outputFileMapPath" : "C:\\Users\\krompcu-pc\\Desktop\\swift\\CreateFile\\.build\\x86_64-unknown-windows-msvc\\debug\\CreateFile.build\\output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "C:\\Users\\krompcu-pc\\Desktop\\swift\\CreateFile\\.build\\x86_64-unknown-windows-msvc\\debug\\CreateFile.build\\main.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "C:\\Users\\krompcu-pc\\Desktop\\swift\\CreateFile\\.build\\x86_64-unknown-windows-msvc\\debug\\CreateFile.swiftmodule"
+        }
+      ],
+      "sources" : [
+        "C:\\Users\\krompcu-pc\\Desktop\\swift\\CreateFile\\Sources\\CreateFile\\main.swift"
+      ],
+      "tempsPath" : "C:\\Users\\krompcu-pc\\Desktop\\swift\\CreateFile\\.build\\x86_64-unknown-windows-msvc\\debug\\CreateFile.build",
+      "wholeModuleOptimization" : false
+    }
+  },
+  "swiftFrontendCommands" : {
+
+  },
+  "swiftTargetScanArgs" : {
+    "CreateFile" : [
+      "C:\\Users\\krompcu-pc\\AppData\\Local\\Programs\\Swift\\Toolchains\\5.10.1+Asserts\\usr\\bin\\swiftc.exe",
+      "-module-name",
+      "CreateFile",
+      "-package-name",
+      "createfile",
+      "-incremental",
+      "-c",
+      "C:\\Users\\krompcu-pc\\Desktop\\swift\\CreateFile\\Sources\\CreateFile\\main.swift",
+      "-I",
+      "C:\\Users\\krompcu-pc\\Desktop\\swift\\CreateFile\\.build\\x86_64-unknown-windows-msvc\\debug",
+      "-target",
+      "x86_64-unknown-windows-msvc",
+      "-swift-version",
+      "5",
+      "-enable-batch-mode",
+      "-index-store-path",
+      "C:\\Users\\krompcu-pc\\Desktop\\swift\\CreateFile\\.build\\x86_64-unknown-windows-msvc\\debug\\index\\store",
+      "-Onone",
+      "-enable-testing",
+      "-j4",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-module-cache-path",
+      "C:\\Users\\krompcu-pc\\Desktop\\swift\\CreateFile\\.build\\x86_64-unknown-windows-msvc\\debug\\ModuleCache",
+      "-parseable-output",
+      "-color-diagnostics",
+      "-sdk",
+      "C:\\Users\\krompcu-pc\\AppData\\Local\\Programs\\Swift\\Platforms\\5.10.1\\Windows.platform\\Developer\\SDKs\\Windows.sdk",
+      "-libc",
+      "MD",
+      "-I",
+      "C:\\Users\\krompcu-pc\\AppData\\Local\\Programs\\Swift\\Platforms\\5.10.1\\Windows.platform\\Developer\\Library\\XCTest-development\\usr\\lib\\swift\\windows",
+      "-I",
+      "C:\\Users\\krompcu-pc\\AppData\\Local\\Programs\\Swift\\Platforms\\5.10.1\\Windows.platform\\Developer\\Library\\XCTest-development\\usr\\lib\\swift\\windows\\x86_64",
+      "-L",
+      "C:\\Users\\krompcu-pc\\AppData\\Local\\Programs\\Swift\\Platforms\\5.10.1\\Windows.platform\\Developer\\Library\\XCTest-development\\usr\\lib\\swift\\windows\\x86_64",
+      "-use-ld=lld",
+      "-g",
+      "-use-ld=lld",
+      "-Xcc",
+      "-D_MT",
+      "-Xcc",
+      "-D_DLL",
+      "-Xcc",
+      "-Xclang",
+      "-Xcc",
+      "--dependent-lib=msvcrt",
+      "-Xcc",
+      "-gdwarf",
+      "-package-name",
+      "createfile",
+      "-driver-use-frontend-path",
+      "C:\\Users\\krompcu-pc\\AppData\\Local\\Programs\\Swift\\Toolchains\\5.10.1+Asserts\\usr\\bin\\swiftc.exe"
+    ]
+  },
+  "targetDependencyMap" : {
+    "CreateFile" : [
+
+    ]
+  },
+  "testDiscoveryCommands" : {
+
+  },
+  "testEntryPointCommands" : {
+
+  },
+  "writeCommands" : {
+    "C:\\Users\\krompcu-pc\\Desktop\\swift\\CreateFile\\.build\\x86_64-unknown-windows-msvc\\debug\\CreateFile.build\\sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "C:\\Users\\krompcu-pc\\Desktop\\swift\\CreateFile\\Sources\\CreateFile\\main.swift"
+        }
+      ],
+      "outputFilePath" : "C:\\Users\\krompcu-pc\\Desktop\\swift\\CreateFile\\.build\\x86_64-unknown-windows-msvc\\debug\\CreateFile.build\\sources"
+    },
+    "C:\\Users\\krompcu-pc\\Desktop\\swift\\CreateFile\\.build\\x86_64-unknown-windows-msvc\\debug\\CreateFile.product\\Objects.LinkFileList" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<link-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "C:\\Users\\krompcu-pc\\Desktop\\swift\\CreateFile\\.build\\x86_64-unknown-windows-msvc\\debug\\CreateFile.build\\CreateFile.swiftmodule.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "C:\\Users\\krompcu-pc\\Desktop\\swift\\CreateFile\\.build\\x86_64-unknown-windows-msvc\\debug\\CreateFile.build\\main.swift.o"
+        }
+      ],
+      "outputFilePath" : "C:\\Users\\krompcu-pc\\Desktop\\swift\\CreateFile\\.build\\x86_64-unknown-windows-msvc\\debug\\CreateFile.product\\Objects.LinkFileList"
+    },
+    "C:\\Users\\krompcu-pc\\Desktop\\swift\\CreateFile\\.build\\x86_64-unknown-windows-msvc\\debug\\swift-version--77E163424D9F6067.txt" : {
+      "alwaysOutOfDate" : true,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<swift-get-version>"
+        },
+        {
+          "kind" : "file",
+          "name" : "C:\\Users\\krompcu-pc\\AppData\\Local\\Programs\\Swift\\Toolchains\\5.10.1+Asserts\\usr\\bin\\swiftc.exe"
+        }
+      ],
+      "outputFilePath" : "C:\\Users\\krompcu-pc\\Desktop\\swift\\CreateFile\\.build\\x86_64-unknown-windows-msvc\\debug\\swift-version--77E163424D9F6067.txt"
+    }
+  }
+}

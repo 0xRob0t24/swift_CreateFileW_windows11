@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "C:\\Users\\krompcu-pc\\Desktop\\swift\\CreateFile\\.build\\x86_64-unknown-windows-msvc\\debug\\CreateFile.build\\master.swiftdeps"
+  },
+  "C:\\Users\\krompcu-pc\\Desktop\\swift\\CreateFile\\Sources\\CreateFile\\main.swift": {
+    "dependencies": "C:\\Users\\krompcu-pc\\Desktop\\swift\\CreateFile\\.build\\x86_64-unknown-windows-msvc\\debug\\CreateFile.build\\main.d",
+    "object": "C:\\Users\\krompcu-pc\\Desktop\\swift\\CreateFile\\.build\\x86_64-unknown-windows-msvc\\debug\\CreateFile.build\\main.swift.o",
+    "swiftmodule": "C:\\Users\\krompcu-pc\\Desktop\\swift\\CreateFile\\.build\\x86_64-unknown-windows-msvc\\debug\\CreateFile.build\\main~partial.swiftmodule",
+    "swift-dependencies": "C:\\Users\\krompcu-pc\\Desktop\\swift\\CreateFile\\.build\\x86_64-unknown-windows-msvc\\debug\\CreateFile.build\\main.swiftdeps"
+  }
+}
